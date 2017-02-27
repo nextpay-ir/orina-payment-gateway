@@ -1,2 +1,2 @@
-# orina-payment-gateway
-Nnextpay Orina VIP Payment Gateway
+# Orina-payment-gateway
+Nextpay Orina VIP Payment Gateway
